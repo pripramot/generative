@@ -10,7 +10,7 @@ For more Vertex AI samples, please visit the [Vertex AI samples Github repositor
 
 ## Using this repository
 
-[![Applied AI Summit: The cloud toolkit for generative AI](https://avatars.githubusercontent.com/u/126644205?s=400&u=fda5ae4e987d626aa41bdee882fa894831bde224&v=4)](https://www.youtube.com/watch?v=xT7WW2SKLfE)
+![Github Desktop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZze_2ihfOzglP9-1dzqkdDS8RKaCBYkhUamDIL5D5HO-pLt_ZQ)
 
 <!-- markdownlint-disable MD033 -->
 <table>
