@@ -1,17 +1,20 @@
-# Generative AI
+# <p align="center"> Generative AI
 
-Welcome to the Google Cloud [Generative AI](https://cloud.google.com/ai/generative-ai) repository.
 
-<a href="gemini"><img src="https://lh3.googleusercontent.com/eDr6pYKs1tT0iK0nt3pPhvVlP2Wn96fbGqbWgBAARRZ7isej037g_tWobjV8zQkxOsWzJuEH8p-fksczXUOeqxGZZIo_HUCdkn8q-a4fuwATD7Q9Xrs=w2456-l100-sg-rj-c0xffffff" style="width:35em"></a>
 
-This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using [Generative AI on Google Cloud](https://cloud.google.com/ai/generative-ai), powered by [Vertex AI](https://cloud.google.com/vertex-ai).
+### <p align="center">For more Vertex AI samples, please visit the [Vertex AI samples Github repository](https://github.com/GoogleCloudPlatform/vertex-ai-samples/)
 
-For more Vertex AI samples, please visit the [Vertex AI samples Github repository](https://github.com/GoogleCloudPlatform/vertex-ai-samples/).
+## <p align="center">🐬**ปรีดิ์ปราโมทย์ เวชบุตร** :  มิว🔰
 
-## Using this repository
+### <p align="center">💖 พื้นที่เล็กๆของฉัน
 
-![Github Desktop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZze_2ihfOzglP9-1dzqkdDS8RKaCBYkhUamDIL5D5HO-pLt_ZQ)
+<p align="center">
+  <a href="#">
+    <img src="https://streak-stats.demolab.com?user=ai-jiraphinya&theme=vue-dark&hide_border=%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%88&locale=th&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
+  </a>
+</p>
 
+---
 <!-- markdownlint-disable MD033 -->
 <table>
 
